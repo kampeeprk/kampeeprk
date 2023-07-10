@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introducing Myself
 
-<!--
-**kampeeprk/kampeeprk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone I'm Kampee Peerakhum, welcome to my portfolio. 
 
-Here are some ideas to get you started:
+### My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Link to my projects [CLICK HERE](https://github.com/stlionnn/Kampee_Portfolio)
+
+### Tools 
+
+- Database: SQL (DML, DDL, SubQuery, Case)
+- Programming: Python (Pandas, NumPy)
+- Business Intelligence: Tableau, Power Bi, Looker Studio
