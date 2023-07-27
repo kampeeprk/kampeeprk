@@ -9,5 +9,5 @@ Link to my projects [CLICK HERE](https://github.com/stlionnn/Kampee_Portfolio)
 ### Tools 
 
 - Database: SQL (DML, DDL, SubQuery, Case)
-- Programming: Python (Pandas, NumPy)
+- Programming: Python (Pandas)
 - Business Intelligence: Tableau, Power Bi, Looker Studio
