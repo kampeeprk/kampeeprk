@@ -10,4 +10,4 @@ Link to my projects [CLICK HERE](https://github.com/stlionnn/Kampee_Portfolio)
 
 - Database: SQL (DML, DDL, SubQuery, Case)
 - Programming: Python (Pandas, Matplotlib)
-- Business Intelligence: Tableau, Power Bi, Looker Studio
+- Business Intelligence: Tableau, Looker Studio, Power Bi
